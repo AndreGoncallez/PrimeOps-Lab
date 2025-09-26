@@ -39,7 +39,7 @@ A topologia foi desenhada para refletir uma arquitetura de defesa em camadas (*d
 
 *(**Nota:** Substitua o link abaixo pela imagem real do seu diagrama quando o tiver)*
 <p align="center">
-  <img src="https://i.imgur.com/83gYssA.png" alt="Diagrama da Arquitetura do PrimeOps Lab"/>
+  <img src="https://i.imgur.com/83gYssA.png" /> " alt="Diagrama da Arquitetura do PrimeOps Lab"/>
   <br>
   <em>Diagrama de alto nível da infraestrutura híbrida.</em>
 </p>
