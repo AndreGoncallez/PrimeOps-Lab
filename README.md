@@ -1,19 +1,9 @@
-Claro! Substituí o logo placeholder pela imagem que você forneceu. Para que a imagem apareça corretamente no seu GitHub, você precisa primeiro fazer o upload dela para o seu repositório.
-
-**Instruções rápidas:**
-1.  No seu repositório GitHub, clique em "Add file" -> "Upload files".
-2.  Envie a imagem do seu logo (ex: `primeops-logo.png`).
-3.  Depois de enviada, clique na imagem e copie a URL dela.
-4.  Cole essa URL no local indicado no `README.md` abaixo.
-
-Aqui está o `README.md` atualizado com o seu logo.
-
 ---
 
 # PrimeOps Lab: Um Ecossistema de Cloud Híbrida, Segurança e DevSecOps
 
 <p align="center">
-  <img src="URL_PARA_SUA_IMAGEM_DE_LOGO_AQUI.png" alt="PrimeOps Lab Logo" width="350"/>
+  <img src="https://github.com/AndreGoncallez/PrimeOps-Lab/blob/main/PrimeOpsLogo.jpeg" alt="PrimeOps Lab Logo" width="350"/>
 </p>
 
 <p align="center">
